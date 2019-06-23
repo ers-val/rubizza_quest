@@ -8,3 +8,10 @@ hours_per_day: 3
 age: 27
 full_name: Valerii Ershov
 education: 2020, Автоматизация процессов и производств, Высшая школа технологии и энергетики СПбГУПТД
+programming_languages:
+- js
+- php
+- python
+- ruby
+- c/c++ - немного
+- haskell/f# - только начал
